@@ -25,7 +25,6 @@ A stateful rules engine inspects packets in the context of their traffic flow, g
 
 In this task, we inspected the network firewall and updated the firewall policy. You then updated the firewall policy to forward all packets for stateful rule inspection.
 
-## Task 3: Create a firewall rule group
 
 
 
